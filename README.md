@@ -5,10 +5,6 @@
 
 
 
-<h3 align="center">
-Full-Stack Developer | UI/UX Designer | Mobile Application Developer
-</h3>
-
 ---
 
 ### 👋 Hi there, I'm **Sadaru Wijethunga**

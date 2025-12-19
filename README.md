@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&section=header&text=Sadaru%20Wijethunga&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20Application%20Developer&descAlignY=72&descSize=16&color=0:6A11CB,50:2575FC,100:00C6FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&section=header&text=Sadaru%20Wijethunga&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20Application%20Developer&descAlignY=72&descSize=16&color=0:11998E,50:38EF7D,100:11998E" />
 </p>
+
 
 
 

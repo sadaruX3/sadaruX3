@@ -50,6 +50,7 @@ Studio, Android Studio, Eclipse
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaruX3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 

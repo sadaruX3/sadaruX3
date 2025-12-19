@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Undergraduate | Aspiring Software Developer
+Full-Stack Developer | UI/UX Designer | Mobile Application Developer
 </h3>
 
 ---

@@ -9,7 +9,7 @@ Undergraduate | Aspiring Software Developer
 
 ---
 
-### 👋 Hi there, I'm **W.L.P.S. Sadaru**
+### 👋 Hi there, I'm **Sadaru Wijethunga**
 
 I'm an undergraduate student at **SLIIT University, Sri Lanka**, passionate about software development and building practical, real-world applications.
 

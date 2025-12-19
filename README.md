@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Sadaru%20Wijethunga&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=Sadaru%20Wijethunga&fontSize=40&fontColor=ffffff&color=0:141E30,50:243B55,100:141E30&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">
 Full-Stack Developer | UI/UX Designer | Mobile Application Developer

@@ -1,37 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=140&section=header&text=W.L.P.S.%20Sadaru&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=W.L.P.S.%20Sadaru&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Undergraduate at SLIIT, Sri Lanka</b> • Aspiring Software Developer • Android & Full-Stack
+  Undergraduate at SLIIT • Aspiring Software Developer
 </p>
 
 ---
 
-## 👋 About
-- 🎓 SLIIT Undergraduate
-- 📱 Kotlin Android projects
-- 🌐 Full-stack & backend interest
-- 🚀 Open to internship opportunities
+### 👋 About
+Passionate about building practical, real-world applications with a focus on clean code and usability.
 
-## 🧰 Skills
-`Kotlin` `Java` `Spring Boot` `React` `MySQL` `PostgreSQL` `Git` `Docker`
+### 🛠️ Tech
+`Kotlin` `Java` `Spring Boot` `React` `MySQL` `PostgreSQL` `Git`
 
-## 📂 Projects
-- **MindWell – Wellness App**  
-  Track mood, hydration and daily habits.
-- **Online Camera Store**  
-  Camera renting/buying experience with product browsing.
+### 📌 Projects
+- **MindWell – Wellness App** (Android/Kotlin)
+- **Online Camera Store** (Full-stack)
 
-## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-- Portfolio/GitHub: https://github.com/sadaruX3  
-
----
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- GitHub: https://github.com/sadaruX3
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaruX3&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true&theme=radical" />
 </p>

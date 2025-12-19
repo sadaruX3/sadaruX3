@@ -1,52 +1,37 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Sadaru%20Wijethunga&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=140&section=header&text=W.L.P.S.%20Sadaru&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-Undergraduate | Aspiring Software Developer
-</h3>
+<p align="center">
+  <b>Undergraduate at SLIIT, Sri Lanka</b> • Aspiring Software Developer • Android & Full-Stack
+</p>
 
 ---
 
-### 👋 Hi there, I'm **Sadaru Wijethunga**
+## 👋 About
+- 🎓 SLIIT Undergraduate
+- 📱 Kotlin Android projects
+- 🌐 Full-stack & backend interest
+- 🚀 Open to internship opportunities
 
-I'm an undergraduate student at **SLIIT University, Sri Lanka**, passionate about software development and building practical, real-world applications.
+## 🧰 Skills
+`Kotlin` `Java` `Spring Boot` `React` `MySQL` `PostgreSQL` `Git` `Docker`
 
----
-
-### 🔥 About Me
-- 🎓 Undergraduate at SLIIT  
-- 💻 Interested in software development & system design  
-- 📱 Building Android & full-stack projects  
-- ☁️ Exploring backend and cloud technologies  
-- 🚀 Always eager to learn and collaborate  
-
----
-
-### 🛠️ Technologies & Tools
-- **Languages:** Java, Kotlin, JavaScript  
-- **Frameworks:** Spring Boot, React  
-- **Mobile:** Android (Kotlin)  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, Docker  
-
----
-
-### 📌 Featured Projects
+## 📂 Projects
 - **MindWell – Wellness App**  
-  Android app for mood, hydration, and habit tracking  
+  Track mood, hydration and daily habits.
 - **Online Camera Store**  
-  E-commerce platform for renting and buying cameras  
+  Camera renting/buying experience with product browsing.
 
----
-
-### 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sadaru-wijethunga-9a60b5373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
-- 💻 GitHub: https://github.com/sadaruX3  
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- Portfolio/GitHub: https://github.com/sadaruX3  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaruX3&layout=compact" />
 </p>

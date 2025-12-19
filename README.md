@@ -25,11 +25,13 @@ I'm an undergraduate student at **SLIIT University, Sri Lanka**, passionate abou
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Java, Kotlin, JavaScript  
-- **Frameworks:** Spring Boot, React  
+- **Web Development:** React JS,
+Node JS, Html, CSS, JavaScript,
+Bootstrap, Java, PHP
 - **Mobile:** Android (Kotlin)  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, Docker  
+- **Databases:**  MySQL, MongoDB 
+- **Tools:**  Postman, Github, Visual
+Studio, Android Studio, Eclipse  
 
 ---
 
@@ -48,5 +50,6 @@ I'm an undergraduate student at **SLIIT University, Sri Lanka**, passionate abou
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadaruX3&show_icons=true&theme=transparent&hide_border=true" />
 </p>
+

@@ -45,8 +45,8 @@ Studio, Android Studio, Eclipse
   Android app for mood, hydration, and habit tracking  
 - **Online Camera Store**  
   E-commerce platform for renting and buying cameras
-- **online-pharmacy-auth-ui**
-  A modern Online Pharmacy Sign In / Sign Up interface
+ - **online-pharmacy-auth-ui**  
+ A modern Online Pharmacy Sign In / Sign Up interface
 
 ---
 
